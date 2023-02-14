@@ -1,0 +1,1 @@
+#This file contains the definitions for the various intents that the chatbot should recognize, along with tthe corresponding responses.
